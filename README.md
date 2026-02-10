@@ -20,3 +20,5 @@ This project focuses on the **frontend design, user interface, and AI response h
 - **CSS3**
 - **JavaScript (ES6)**
 - **Gemini API**
+
+🔗 Live Demo: https://harsha-gemini.netlify.app/
